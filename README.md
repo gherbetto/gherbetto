@@ -12,7 +12,7 @@
 <!-- Social icons section -->
 
 <p align="left">
-<a href="linkedin.com">
+<a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
 <a href=linkedin.com>
@@ -24,7 +24,7 @@
 <a href="https://discord.gg/qxbAhFaTRs">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" /></a>
   &#8287;
-<a href="https://www.behance.net/dgherastovf3ff">
+<a href="https://www.behance.net/dgherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
 </p>
 
