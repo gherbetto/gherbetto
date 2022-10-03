@@ -1,7 +1,7 @@
-#Dmitrii Gherastovschi 👋
+# Dmitrii Gherastovschi 👋
 
 
-##`Digital craftsman`
+**`Digital craftsman (Web-developement, Content Creator)`**
 <!--
 **gherbetto/gherbetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
