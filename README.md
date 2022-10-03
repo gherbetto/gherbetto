@@ -1,10 +1,11 @@
 <h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />Dmitrii Gherastovschi 
-   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+  Dmitrii Gherastovschi 
+   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28">
 </h3>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG">
 </p>
 
 
@@ -13,12 +14,16 @@
 <p align="left">
 <a href="linkedin.com">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
+  &#8287;
 <a href=linkedin.com>
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Slack.svg" /></a>
-<a href=linkedin.com>
+  &#8287;
+<a href="https://gherbetto.t.me">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" /></a>
+  &#8287;
 <a href=linkedin.com>
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" /></a>
+  &#8287;
 <a href=linkedin.com>
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
 </p>
