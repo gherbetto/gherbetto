@@ -21,7 +21,7 @@
 <a href="https://gherbetto.t.me">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" /></a>
   &#8287;
-<a href=linkedin.com>
+<a href="https://discord.gg/qxbAhFaTRs">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" /></a>
   &#8287;
 <a href="https://www.behance.net/dgherastovf3ff">
