@@ -24,7 +24,7 @@
 <a href=linkedin.com>
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" /></a>
   &#8287;
-<a href=linkedin.com>
+<a href="https://www.behance.net/dgherastovf3ff">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
 </p>
 
