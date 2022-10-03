@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="28">
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG" />
+</p>
 
 
 <!-- Social icons section -->
