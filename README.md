@@ -1,24 +1,22 @@
-<h3 align="left">
-Dmitrii Gherastovschi 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
+<h3 align="center">
+  Dmitrii Gherastovschi 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="28">
 </h3>
 
-**`(Front-end | Web-developement | Content Creation)`**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG" />
 
 
 <!-- Social icons section -->
 
-<p align="center">
+<p align="left">
 <a href="linkedin.com">
-  <img img width="32px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img height="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
 <a href=linkedin.com>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" /></a>
 <a href=linkedin.com>
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" /></a>
 <a href=linkedin.com>
-  <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-<a href=linkedin.com>
-  <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <img height="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
 </p>
 
 <!--
