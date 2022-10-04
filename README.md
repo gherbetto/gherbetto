@@ -23,11 +23,11 @@
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
 </p>
 
-### 🌐 My Latest Work
+### My Latest Work
 
-### 🛠️ My favorite tools
+### My favorite tools
 
-#### 👨‍💻 Programming and markup languages
+#### Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -39,7 +39,7 @@
   
 </p>
 
-#### 🧰 Frameworks and libraries
+#### Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -69,7 +69,8 @@
     <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p>
 
-#### 🗄️ Databases and cloud hosting
+<!-- 
+#### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -85,7 +86,9 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-#### 💻 Software and tools
+ -->
+
+#### Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
