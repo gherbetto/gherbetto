@@ -6,7 +6,7 @@
 > “I want to put a ding in the universe.”
 <!-- Social icons section -->
 
-<p align="left">
+<p align="center">
 <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
