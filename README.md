@@ -115,9 +115,9 @@
 </p>
 
 ---
-<h3 align="left">
+<h3 align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Peace%20Symbol.png" alt="Peace Symbol" width="25" height="25" />
-  Let's connect
+  Thank you for visiting my page!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" alt="Heart Hands Light Skin Tone" width="25" height="25" /> 
   </p>
 
