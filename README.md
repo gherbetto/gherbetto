@@ -10,7 +10,7 @@
 <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
-<a href=linkedin.com>
+<a href="https://join.slack.com/t/gherbettoslack/shared_invite/zt-1h78lj442-_c2xxgEi52jZCI5~EPmUQA">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Slack.svg" /></a>
   &#8287;
 <a href="https://gherbetto.t.me">
