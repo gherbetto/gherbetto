@@ -27,7 +27,7 @@
 
 <a href="https://gherbetto.github.io/sedona"><img alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
 
-<a href="https://gherbetto.github.io/nerds/"><img alt="Nerd webpage thumbnail" src"https://user-images.githubusercontent.com/20890643/193713974-3e380aef-b3f6-49ea-83dd-953fcfc3c8a4.jpeg"></a>
+<a href="https://gherbetto.github.io/nerds/"><img alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713974-3e380aef-b3f6-49ea-83dd-953fcfc3c8a4.jpeg"></a>
 
 
 
