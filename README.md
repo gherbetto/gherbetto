@@ -25,6 +25,9 @@
 
 ### My Latest Work
 
+<a href="https://gherbetto.github.io/sedona"><img alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
+
+
 ### My favorite tools
 
 #### Programming and markup languages
