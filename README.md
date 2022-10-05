@@ -28,12 +28,13 @@
 
 <h3 align="center">My Latest Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
-<a href="https://gherbetto.github.io/sedona"><img alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
-|
-<a href="https://gherbetto.github.io/nerds/"><img alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
+<p align="center">
+<a href="https://gherbetto.github.io/sedona"><img width="300px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
+<a href="https://gherbetto.github.io/nerds/"><img width="300px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
+<a href="https://gherbetto.github.io/sedona"><img width="300px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
+</p>
 
-
-
+---
 
 ### Toolbox <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="23" height="23" />
 
@@ -79,6 +80,8 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?logo=webstorm&logoColor=white&color=black"></a>
 </p>
+
+---
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" />
