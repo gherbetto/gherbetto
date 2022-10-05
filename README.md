@@ -55,6 +55,7 @@
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
@@ -71,14 +72,17 @@
 #### Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Apple Music" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
+    <a href="#"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?logo=apple-music&logoColor=white"></a>
+    <a href="#"><img alt="Apple Music" src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?logo=webstorm&logoColor=white&color=black"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
+  <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?logo=webstorm&logoColor=white&color=black"></a>
 </p>
 
 ---
