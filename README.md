@@ -50,16 +50,20 @@
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Ascss&type=code"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"></a>
 </p>
 
-#### Frameworks and libraries
+#### Frameworks
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-<!-- Badges that i used, thanks to this repo! https://github.com/Ileriayo/markdown-badges -->
+<!-- 
+
+    Badges that i used, thanks to this repo! https://github.com/Ileriayo/markdown-badges 
+    also custom badge for the missing logos, was possible with https://custom-icon-badges.demolab.com/ by https://github.com/DenverCoder1
+
+-->
 
 #### Software and tools
 
