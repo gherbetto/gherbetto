@@ -72,7 +72,7 @@
 
 <p>
     <a href="#"><img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
-    <a href="#"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?logo=apple-music&logoColor=white"></a>
+    <a href="https://music.apple.com/profile/gherbetto"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?logo=apple-music&logoColor=white"></a>
     <a href="#"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)"></a>
     <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
