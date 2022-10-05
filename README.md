@@ -1,12 +1,12 @@
 # Dmitrii Gherastovschi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28">
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG">
 
-> “I want to put a ding in the universe.”
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FFFFFF&background=FF693900&width=435&lines=Front-end+web+developer;Content+creator;Always+learning" alt="Typing SVG">
+  
 <!-- Social icons section -->
 
-<p align="center">
+<p align="left">
 <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
@@ -22,6 +22,8 @@
 <a href="https://www.behance.net/dgherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
 </p>
+
+<hr>
 
 ### My Latest Work
 
