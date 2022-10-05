@@ -59,14 +59,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-<!-- 
-#### Databases and cloud hosting
-
-<p>
-   
-</p>
-
- -->
+<!-- Badges that i used! https://github.com/Ileriayo/markdown-badges -->
 
 #### Software and tools
 
@@ -94,4 +87,5 @@
   Thank you for visiting my page!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" /> 
   </p>
+
 
