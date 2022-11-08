@@ -30,9 +30,9 @@
 <h3 align="center">My Latest Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
 <p align="center">
-<a href="https://gherbetto.github.io/sedona"><img width="400px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200444458-dd8007e2-bc0b-4d99-ada8-ff5b0c648896.png"></a>
-<a href="https://gherbetto.github.io/nerds/"><img width="400px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
-<a href="https://gherbetto.github.io/sedona"><img width="400px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
+<a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200444458-dd8007e2-bc0b-4d99-ada8-ff5b0c648896.png"></a>
+<a href="https://gherbetto.github.io/nerds/"><img height="225px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
+<a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
 </p>
 
 <hr>
