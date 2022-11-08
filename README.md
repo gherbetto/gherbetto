@@ -30,7 +30,7 @@
 <h3 align="center">My Latest Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
 <p align="center">
-<a href="https://gherbetto.github.io/sedona"><img width="300px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
+<a href="https://gherbetto.github.io/sedona"><img width="300px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200443510-b80cf8a8-6d0b-4b97-a5d3-d358b86641bf.png"></a>
 <a href="https://gherbetto.github.io/nerds/"><img width="300px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
 <a href="https://gherbetto.github.io/sedona"><img width="300px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
 </p>
