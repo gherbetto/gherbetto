@@ -27,7 +27,7 @@
 
 <hr>
 
-<h3 align="center">My Latest Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
+<h3 align="center">My Latest Practice Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
 <p align="center">
 <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200444458-dd8007e2-bc0b-4d99-ada8-ff5b0c648896.png"></a>
