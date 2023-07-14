@@ -27,6 +27,10 @@
 
 <hr>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648e2474779070ae6248ad35?variant=dark)](https://roadmap.sh)
+<br>
+[![codewars.com](https://www.codewars.com/users/gherbetto/badges/small)](https://codewars.com)
+
 <h3 align="center">My Latest Practice Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
 <p align="center">
