@@ -2,11 +2,16 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&color=DEDEDE&background=0b0c10&width=235&lines=Front-end+web+developer;Design+experience+6y.;Always+learning" alt="Typing SVG">
- </p>
+ </p> -->
   
  <!-- Social icons section -->
+
+ <p align="center">
+   <a href="https://www.behance.net/dgherastovschi">
+   <img src="https://www.codewars.com/users/gherbetto/badges/large" /></a>
+ </p>
   
  <p align="center">
   <a href="www.linkedin.com/in/dmitrii-gherastovschi">
@@ -26,10 +31,6 @@
 </p>  
 
 <hr>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648e2474779070ae6248ad35?variant=dark)](https://roadmap.sh)
-<br>
-[![codewars.com](https://www.codewars.com/users/gherbetto/badges/small)](https://codewars.com)
 
 <h3 align="center">My Latest Practice Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
@@ -51,6 +52,7 @@
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Ahtml&type=code"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Ajavascript&type=code"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Agherbetto+language%3Amarkdown&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Ascss&type=code"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="Cube CSS" src="https://custom-icon-badges.demolab.com/badge/Cube CSS-white?logoColor=black&logo=cubecss"></a>
 </p>
@@ -71,15 +73,16 @@
     Badges that i used, thanks to this repo! https://github.com/Ileriayo/markdown-badges 
     also custom badge for the missing logos, was possible with https://custom-icon-badges.demolab.com/ by https://github.com/DenverCoder1
 
+<a href="https://obsidian.md/"><img alt="Obsidian" src="https://custom-icon-badges.demolab.com/badge/Obsidian-7952B3?logoColor=white&logo=Obsidian"></a>
+<a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+<a href="https://music.apple.com/profile/gherbetto"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?logo=apple-music&logoColor=white"></a>
 -->
 
 #### Software and tools
 
 <p>
     <a href="#"><img alt="Adobe CC" src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?logo=Adobe%20Creative%20Cloud&logoColor=white"></a>
-    <a href="https://music.apple.com/profile/gherbetto"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?logo=apple-music&logoColor=white"></a>
     <a href="https://www.codewars.com/users/gherbetto"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=grey)"></a>
-    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&logo=figma&logoColor=white"></a>
@@ -88,10 +91,9 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://headsetapp.co/"><img alt="Headset" src="https://custom-icon-badges.demolab.com/badge/Headset-gray?logoColor=white&logo=Headset"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="https://obsidian.md/"><img alt="Obsidian" src="https://custom-icon-badges.demolab.com/badge/Obsidian-7952B3?logoColor=white&logo=Obsidian"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
-  <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-143?logo=webstorm&logoColor=white&color=black"></a>
+    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-143?logo=webstorm&logoColor=white&color=black"></a>
 </p>
 
 <hr>
