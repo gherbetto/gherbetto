@@ -19,7 +19,7 @@ jobs:
 
           user: Gherbetto
           template: classic
-          base: header, activity
+          base: header, community
 
   mostused:
     runs-on: ubuntu-latest
@@ -34,5 +34,5 @@ jobs:
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 6
           
