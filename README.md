@@ -42,6 +42,8 @@
 - Frontend Developer at [PSA](https://goodwork.su/)
 - The rule of three C's: Coffee, Cats and Computers
 
+![Metrics](https://raw.githubusercontent.com/gherbetto/gherbetto/master/github-metrics.svg)
+
 ### My Latest Practice Work <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></picture>
 
 <div align="left">
