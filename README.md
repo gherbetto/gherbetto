@@ -8,13 +8,8 @@
   
  <!-- Social icons section -->
 
- <p align="center">
-   <a href="https://www.behance.net/dgherastovschi">
-   <img src="https://www.codewars.com/users/gherbetto/badges/large" /></a>
- </p>
-  
- <p align="center">
-  <a href="www.linkedin.com/in/dmitrii-gherastovschi">
+<div align="left">
+   <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
 <a href="https://join.slack.com/t/gherbettoslack/shared_invite/zt-1h78lj442-_c2xxgEi52jZCI5~EPmUQA">
@@ -28,16 +23,20 @@
   &#8287;
 <a href="https://www.behance.net/dgherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
-</p>  
+</div>
 
-<a href="https://app.daily.dev/gherbetto">
+ <div align="right">
+   <a href="https://www.codewars.com/users/gherbetto"> 
+     <img src="https://www.codewars.com/users/gherbetto/badges/large" />
+   </a>
+    <a href="https://app.daily.dev/gherbetto">
     <img
       width="256"
       align="right"
       src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/devcard.svg"
     />
   </a>
-  
+ </div>
 
 <hr>
 
