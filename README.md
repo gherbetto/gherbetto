@@ -1,16 +1,8 @@
-# Welcome to my profile! <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32"></picture>
-
-<h3 align="left"></h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&color=DEDEDE&background=0b0c10&width=235&lines=Front-end+web+developer;Design+experience+6y.;Always+learning" alt="Typing SVG">
- </p> -->
+<h1 align="center">Welcome to my profile!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32"></h1>
   
  <!-- Social icons section -->
  
-<span align="left">
+<div align="center">
    <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
@@ -25,9 +17,11 @@
   &#8287;
 <a href="https://www.behance.net/dgherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
-</span>
+</div>
 
- <span align="right">
+<h2 align="left">I am Dmitrii</h2>
+
+ <div align="right">
     <a href="https://app.daily.dev/gherbetto">
     <img
       width="256"
@@ -35,14 +29,14 @@
       src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/devcard.svg"
     />
   </a>
- </span>
-
-## I am Dmitrii
+ </div>
 
 - Frontend Developer at [PSA](https://goodwork.su/)
 - The rule of three C's: Coffee, Cats and Computers
 
 ![Metrics](https://raw.githubusercontent.com/gherbetto/gherbetto/master/github-metrics.svg)
+![Most-used](https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.languages.details.svg)
+
 
 ### My Latest Practice Work <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></picture>
 
@@ -109,6 +103,13 @@
 </p>
 
 <hr>
+
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&color=DEDEDE&background=0b0c10&width=235&lines=Front-end+web+developer;Design+experience+6y.;Always+learning" alt="Typing SVG">
+ </p> -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" />
