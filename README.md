@@ -9,8 +9,8 @@
  </p> -->
   
  <!-- Social icons section -->
-<div>
-<p align="left">
+ 
+<span align="left">
    <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
@@ -25,12 +25,9 @@
   &#8287;
 <a href="https://www.behance.net/dgherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
-<a href="https://www.codewars.com/users/gherbetto"> 
-     <img src="https://www.codewars.com/users/gherbetto/badges/small" />
-   </a>
-</p>
+</span>
 
- <p align="right">
+ <span align="right">
     <a href="https://app.daily.dev/gherbetto">
     <img
       width="256"
@@ -38,38 +35,24 @@
       src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/devcard.svg"
     />
   </a>
- </p>
-</div>
-
-<table>
-  <tbody>
-    <tr>
-      <td style="border: none">Column One</td>
-      <td style="border: none">Column One</td>
-    </tr>
-    <tr>
-      <td style="border: none">Content of column one</td>
-      <td style="border: none">Content of column two</td>
-    </tr>
-  </tbody>
-</table>
+ </span>
 
 ## I am Dmitrii
 
 - Frontend Developer at [PSA](https://goodwork.su/)
 - The rule of three C's: Coffee, Cats and Computers
 
-<h3 align="center">My Latest Practice Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
+### My Latest Practice Work <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></picture>
 
-<p align="center">
+<div align="left">
 <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200444458-dd8007e2-bc0b-4d99-ada8-ff5b0c648896.png"></a>
 <a href="https://gherbetto.github.io/nerds/"><img height="225px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
 <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
-</p>
+</div>
 
 <hr>
 
-<h3>Toolbox<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="23" height="23" /></h3>
+### Toolbox <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="23" height="23" /></picture>
 
 #### Programming and markup languages
 
