@@ -1,4 +1,6 @@
-<h3 align="center">Welcome to my profile!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="28"></h3>
+# Welcome to my profile! <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32"></picture>
+
+<h3 align="left"></h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
@@ -7,8 +9,8 @@
  </p> -->
   
  <!-- Social icons section -->
-
-<div align="left">
+<div>
+<p align="left">
    <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
   &#8287;
@@ -23,12 +25,12 @@
   &#8287;
 <a href="https://www.behance.net/dgherastovschi">
   <img width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Behance.svg" /></a>
-</div>
-
- <div align="right">
-   <a href="https://www.codewars.com/users/gherbetto"> 
-     <img src="https://www.codewars.com/users/gherbetto/badges/large" />
+<a href="https://www.codewars.com/users/gherbetto"> 
+     <img src="https://www.codewars.com/users/gherbetto/badges/small" />
    </a>
+</p>
+
+ <p align="right">
     <a href="https://app.daily.dev/gherbetto">
     <img
       width="256"
@@ -36,9 +38,26 @@
       src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/devcard.svg"
     />
   </a>
- </div>
+ </p>
+</div>
 
-<hr>
+<table>
+  <tbody>
+    <tr>
+      <td style="border: none">Column One</td>
+      <td style="border: none">Column One</td>
+    </tr>
+    <tr>
+      <td style="border: none">Content of column one</td>
+      <td style="border: none">Content of column two</td>
+    </tr>
+  </tbody>
+</table>
+
+## I am Dmitrii
+
+- Frontend Developer at [PSA](https://goodwork.su/)
+- The rule of three C's: Coffee, Cats and Computers
 
 <h3 align="center">My Latest Practice Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="23" height="23" /></h3>
 
