@@ -36,7 +36,9 @@
 
 
 <!-- <picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/github-metrics.svg" alt="Gherbetto's profile metrics" /></picture> -->
-<picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.wakatime.svg" alt="Gherbetto's profile metrics" /></picture>
+<a href="https://wakatime.com/@Gherbetto">
+  <img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.wakatime.svg" alt="Gherbetto's profile metrics" />
+</a>
 <picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.languages.details.svg" alt="Gherbetto's most used languages" /></picture>
 
 
