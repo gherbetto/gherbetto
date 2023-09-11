@@ -23,6 +23,8 @@ jobs:
 
   mostused:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
@@ -39,6 +41,8 @@ jobs:
 
   wakatime:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
