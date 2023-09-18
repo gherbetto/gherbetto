@@ -63,7 +63,6 @@
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Amarkdown&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Agherbetto+language%3Amarkdown&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"></a>
     <a href="https://github.com/search?q=user%3Agherbetto+language%3Ascss&type=code"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="#"><img alt="Cube CSS" src="https://custom-icon-badges.demolab.com/badge/Cube CSS-white?logoColor=black&logo=cubecss"></a>
 </p>
 
 <h4>Frameworks</h4>
@@ -85,6 +84,8 @@
 <a href="https://obsidian.md/"><img alt="Obsidian" src="https://custom-icon-badges.demolab.com/badge/Obsidian-7952B3?logoColor=white&logo=Obsidian"></a>
 <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
 <a href="https://music.apple.com/profile/gherbetto"><img alt="Apple Music" src="https://img.shields.io/badge/Apple_Music-9933CC?logo=apple-music&logoColor=white"></a>
+<a href="https://headsetapp.co/"><img alt="Headset" src="https://custom-icon-badges.demolab.com/badge/Headset-gray?logoColor=white&logo=Headset"></a>
+<a href="#"><img alt="Cube CSS" src="https://custom-icon-badges.demolab.com/badge/Cube CSS-white?logoColor=black&logo=cubecss"></a>
 -->
 
 <h4>Software and tools</h4>
@@ -96,13 +97,14 @@
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&logo=figma&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://gitlab.com/gherbetto"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"></a>
+    <a href="https://gitlab.com/gherbetto"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-white.svg?logo=gitlab&logoColor=coral"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://headsetapp.co/"><img alt="Headset" src="https://custom-icon-badges.demolab.com/badge/Headset-gray?logoColor=white&logo=Headset"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white&labelColor=deeppink"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=lightgreen"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>  
-    <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-143?logo=webstorm&logoColor=white&color=black"></a>
+<!--     <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-143?logo=webstorm&logoColor=white&color=black"></a> -->
 </p>
 
 <hr>
