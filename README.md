@@ -37,15 +37,6 @@
 <a href="https://wakatime.com/@Gherbetto">
   <img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.wakatime.svg" alt="Gherbetto's profile metrics" />
 </a>
-<picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.languages.details.svg" alt="Gherbetto's most used languages" /></picture>
-
-## Gallery 🖼️
-
-<div align="left">
-<!-- <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200444458-dd8007e2-bc0b-4d99-ada8-ff5b0c648896.png"></a> -->
-<a href="https://gherbetto.github.io/nerds/"><img height="225px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
-<a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
-</div>
 
 ## Toolbox 🧰
 
@@ -69,6 +60,20 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+#### Most Used Languages
+
+<picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.languages.details.svg" alt="Gherbetto's most used languages" /></picture>
+
+## Gallery 🖼️
+
+<div align="left">
+<!-- <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/200444458-dd8007e2-bc0b-4d99-ada8-ff5b0c648896.png"></a> -->
+<a href="https://gherbetto.github.io/nerds/"><img height="225px" alt="Nerd webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193714544-aaf0e157-7444-4ef2-9bfc-2775dce44af5.jpeg"></a>
+<a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="https://user-images.githubusercontent.com/20890643/193713167-3bea9807-2054-49a8-8248-7bdb5a685c79.jpeg"></a>
+</div>
+
+
 
 <!--
 
