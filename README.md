@@ -12,13 +12,13 @@
   <img width="32px" src="assets/icons/Discord_black.svg" /></a>
 <a href="mailto:dgherastovschi@gmail.com">
   <img width="32px" src="assets/icons/Mail_ru_black.svg" /></a>
-  <a href="https://facebook.com/">
-  <img width="32px" src="assets/icons/Facebook_black.svg" /></a>
+<!--   <a href="https://facebook.com/">
+  <img width="32px" src="assets/icons/Facebook_black.svg" /></a> -->
 </div>
 
 ---
 
- <div align="right">
+<!-- <div align="right">
     <a href="https://app.daily.dev/gherbetto">
     <img
       width="256"
@@ -26,9 +26,9 @@
       src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/devcard.svg"
     />
   </a>
- </div>
+ </div> -->
 
-- Frontend Developer at [PSA](https://goodwork.su/)
+- Frontend Developer
 - The rule of three C's: Coffee, Cats and Computers
 - Always happy to help you grow your tech career through mentorship. 
 - Feel free to reach out, if you need any help!
