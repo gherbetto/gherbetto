@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 860 220" width="860" height="220">
+  <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style: none;
+      }
+
+      @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&amp;family=Syne:wght@800&amp;display=swap');
+
+      .body {
+        width: 860px;
+        height: 220px;
+        background: #0d1117;
+        border: 1px solid #21262d;
+        border-radius: 12px;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        padding: 40px 44px;
+        position: relative;
+        font-family: 'Space Mono', 'Courier New', monospace;
+      }
+
+      .glow {
+        position: absolute;
+        top: -80px;
+        right: -40px;
+        width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(88,166,255,0.09) 0%, transparent 65%);
+        pointer-events: none;
+      }
+
+      .glow2 {
+        position: absolute;
+        bottom: -60px;
+        left: 200px;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(63,185,80,0.05) 0%, transparent 65%);
+        pointer-events: none;
+      }
+
+      .left { flex: 1; }
+
+      .prompt {
+        font-size: 11px;
+        color: #58a6ff;
+        letter-spacing: 0.07em;
+        margin-bottom: 14px;
+      }
+
+      .name {
+        font-family: 'Syne', 'Arial Black', sans-serif;
+        font-size: 46px;
+        font-weight: 800;
+        color: #e6edf3;
+        line-height: 1.05;
+        margin-bottom: 6px;
+        letter-spacing: -0.5px;
+      }
+
+      .name span { color: #58a6ff; }
+
+      .subtitle {
+        font-size: 11px;
+        color: #8b949e;
+        letter-spacing: 0.03em;
+        margin-bottom: 22px;
+      }
+
+      .desc {
+        font-size: 12px;
+        color: #c9d1d9;
+        line-height: 1.85;
+        max-width: 420px;
+      }
+
+      .desc em { color: #58a6ff; font-style: normal; }
+
+      .right {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 9px;
+        flex-shrink: 0;
+      }
+
+      .pill {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: #161b22;
+        border: 1px solid #21262d;
+        border-radius: 20px;
+        padding: 6px 14px;
+        font-size: 11px;
+        color: #8b949e;
+        white-space: nowrap;
+      }
+
+      .dot {
+        width: 7px;
+        height: 7px;
+        border-radius: 50%;
+        background: #3fb950;
+        animation: blink 2s infinite;
+        flex-shrink: 0;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.25; }
+      }
+
+      .divider {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, #58a6ff44, transparent);
+      }
+    </style>
+
+    <div class="body">
+      <div class="glow"></div>
+      <div class="glow2"></div>
+      <div class="divider"></div>
+
+      <div class="left">
+        <div class="prompt">// gherbetto · github profile</div>
+        <div class="name">Dmitrii<br/><span>Gherastovschi</span></div>
+        <div class="subtitle">frontend developer · moldova · he/him</div>
+        <div class="desc">
+          i build things for browsers &#8212; clean markup,<br/>
+          semantic HTML, and CSS that doesn&#39;t fight you.<br/>
+          focused on <em>vanilla foundations</em> with a growing<br/>
+          eye for design systems and modern tooling.
+        </div>
+      </div>
+
+      <div class="right">
+        <div class="pill"><div class="dot"></div> open to work</div>
+        <div class="pill">&#128205; Moldova, MD</div>
+        <div class="pill">&#9749; VS Code + coffee</div>
+        <div class="pill">&#128247; amateur photographer</div>
+        <div class="pill">&#127918; Pok&#233;mon fan</div>
+      </div>
+    </div>
+
+  </div>
+  </foreignObject>
+</svg>

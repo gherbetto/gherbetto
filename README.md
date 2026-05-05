@@ -1,5 +1,11 @@
 [![Dmitrii Gherastovschi - JavaScript Developer from Moldova](/assets/images/gh-image.png)](https://gherbetto.dev/)
 
+<div style="width: 100%;">
+  <a href="https://gherbetto.dev/">
+    <img src="/assets/images/hero.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
  <!-- Social icons section -->
 <div align="center">
 <a href="https://www.gherbetto.dev">
@@ -30,7 +36,7 @@
 
 - Frontend Developer
 - The rule of three C's: Coffee, Cats and Computers
-- Always happy to help you grow your tech career through mentorship. 
+- Always happy to help you grow your tech career through mentorship.
 - Feel free to reach out, if you need any help!
 
 <!-- <picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/github-metrics.svg" alt="Gherbetto's profile metrics" /></picture> -->
@@ -74,8 +80,6 @@
 <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="/assets/images/thumbnails/sedona.jpg"></a>
 </div>
 
-
-
 <!--
 
     Badges that i used, thanks to this repo! https://github.com/Ileriayo/markdown-badges
@@ -93,7 +97,7 @@
 ### Computer & Hardware
 
 - **Dell Latitude 5490 14"** (i5-8350U, 32GB, 1TB M.2 SSD)
-- **Dell Performance Dock - WD19DC**  
+- **Dell Performance Dock - WD19DC**
 - **LG** ultra-wide monitor
 
 ### Developement Tools
@@ -101,7 +105,6 @@
 - **Visual Studio Code** with the **Dracula** theme and **Cascadia Code** Nerd Font
 - **WebStorm** with the same as above setup for similar experience
 - **Windows Terminal** with **Nord** theme
-
 
 ### Design Tools
 
