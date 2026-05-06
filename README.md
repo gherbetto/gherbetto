@@ -1,10 +1,15 @@
 [![Dmitrii Gherastovschi - JavaScript Developer from Moldova](/assets/images/gh-image.png)](https://gherbetto.dev/)
 
-<div style="width: 100%;">
+<picture>
+  <source media="(max-width: 480px)" srcset="hero-mobile.svg">
+  <img src="hero.svg" alt="Dmitrii Gherastovschi" width="100%" />
+</picture>
+
+<!-- <div style="width: 100%;">
   <a href="https://gherbetto.dev/">
     <img src="/assets/images/hero.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-</div>
+</div> -->
 
  <!-- Social icons section -->
 <div align="center">
