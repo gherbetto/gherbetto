@@ -1,10 +1,15 @@
-[![Dmitrii Gherastovschi - JavaScript Developer from Moldova](/assets/images/gh-image.png)](https://gherbetto.dev/)
+<a href="https://gherbetto.dev/" title="Visit my website, be my guest!">
+		<picture>
+		  <source media="(min-width: 720px)" srcset="/assets/images/hero.svg">
+		  <img src="/assets/images/gh-image.png" width="800" height="auto">
+		</picture>
+	</a>
 
-<div style="width: 100%;">
-  <a href="https://gherbetto.dev/">
-    <img src="/assets/images/hero.svg" style="width: 100%;" alt="Click to see the source">
+<!-- <div style="width: 100%;">
+  <a href="https://gherbetto.dev/" title="Click here to visit Example.com">
+    <img src="/assets/images/hero.svg" style="width: 100%;" alt="Visit my web home.">
   </a>
-</div>
+</div> -->
 
  <!-- Social icons section -->
 <div align="center">
