@@ -5,6 +5,8 @@
 		</picture>
 	</a>
 
+<img src="/assets/images/carousel.svg" style="width: 100%;" alt="My favorite technologies">
+
 <!-- <div style="width: 100%;">
   <a href="https://gherbetto.dev/" title="Click here to visit Example.com">
     <img src="/assets/images/hero.svg" style="width: 100%;" alt="Visit my web home.">
