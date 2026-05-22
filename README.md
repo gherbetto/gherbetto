@@ -1,9 +1,24 @@
-<a href="https://gherbetto.dev/" title="Visit my website, be my guest!">
+<div align="center">
+  <a href="https://gherbetto.dev/" title="Visit my website, be my guest!">
+    <picture>
+      <source 
+        media="(max-width: 600px)" 
+        srcset="https://github-card-opal-xi.vercel.app/api/hero?v=mobile">
+      <img 
+        src="https://github-card-opal-xi.vercel.app/api/hero"
+        alt="Dmitrii Gherastovschi"
+        width="100%"
+        />
+    </picture>
+  </a>
+</div>
+
+<!-- <a href="https://gherbetto.dev/" title="Visit my website, be my guest!">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="/assets/images/hero.svg">
 		  <img src="/assets/images/gh-image.png" width="800" height="auto">
 		</picture>
-	</a>
+	</a> -->
 
 <img src="/assets/images/carousel.svg" style="width: 100%;" alt="My favorite technologies">
 
