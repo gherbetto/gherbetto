@@ -20,7 +20,7 @@
 		</picture>
 	</a> -->
 
-<img src="/assets/images/carousel.svg" style="width: 100%;" alt="My favorite technologies">
+<!-- <img src="/assets/images/carousel.svg" style="width: 100%;" alt="My favorite technologies"> -->
 
 <!-- <div style="width: 100%;">
   <a href="https://gherbetto.dev/" title="Click here to visit Example.com">
@@ -30,7 +30,7 @@
 
  <!-- Social icons section -->
 <div align="center">
-<a href="https://www.gherbetto.dev">
+<!-- <a href="https://www.gherbetto.dev">
   <img width="32px" src="assets/icons/WWW_black.svg" /></a>
    <a href="www.linkedin.com/in/dmitrii-gherastovschi">
   <img width="32px" src="assets/icons/LinkedIN_black.svg" /></a>
@@ -39,7 +39,7 @@
 <a href="https://discord.gg/qxbAhFaTRs">
   <img width="32px" src="assets/icons/Discord_black.svg" /></a>
 <a href="mailto:dgherastovschi@gmail.com">
-  <img width="32px" src="assets/icons/Mail_ru_black.svg" /></a>
+  <img width="32px" src="assets/icons/Mail_ru_black.svg" /></a> -->
 <!--   <a href="https://facebook.com/">
   <img width="32px" src="assets/icons/Facebook_black.svg" /></a> -->
 </div>
@@ -93,13 +93,13 @@
 
 <picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.languages.details.svg" alt="Gherbetto's most used languages" /></picture>
 
-## Gallery 🖼️
+## Commercial projects 🖼️
 
 <div align="left">
-<a href="https://gherbetto.github.io/soulard-french-qtr-apts/"><img alt="Soulard french quarter apartments webpage thumbnail" src="/assets/images/thumbnails/sfqapartments.jpg"></a>
-<a href="https://gherbetto.github.io/my-dev-projects/bootstrap5/ebook-website/"><img alt="Sedona webpage thumbnail" src="/assets/images/thumbnails/blog-mastery.jpg"></a>
-<a href="https://gherbetto.github.io/nerds/"><img height="225px" alt="Nerd webpage thumbnail" src="/assets/images/thumbnails/nerds.jpg"></a>
-<a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="/assets/images/thumbnails/sedona.jpg"></a>
+<!-- <a href="https://gherbetto.github.io/soulard-french-qtr-apts/"><img alt="Soulard french quarter apartments webpage thumbnail" src="/assets/images/thumbnails/sfqapartments.jpg"></a> -->
+<!-- <a href="https://gherbetto.github.io/my-dev-projects/bootstrap5/ebook-website/"><img alt="Sedona webpage thumbnail" src="/assets/images/thumbnails/blog-mastery.jpg"></a> -->
+<!-- <a href="https://gherbetto.github.io/nerds/"><img height="225px" alt="Nerd webpage thumbnail" src="/assets/images/thumbnails/nerds.jpg"></a> -->
+<!-- <a href="https://gherbetto.github.io/sedona"><img height="225px" alt="Sedona webpage thumbnail" src="/assets/images/thumbnails/sedona.jpg"></a> -->
 </div>
 
 <!--
@@ -114,48 +114,4 @@
 <a href="#"><img alt="Cube CSS" src="https://custom-icon-badges.demolab.com/badge/Cube CSS-white?logoColor=black&logo=cubecss"></a>
 -->
 
-## Uses 🧑‍💻
 
-### Computer & Hardware
-
-- **Dell Latitude 5490 14"** (i5-8350U, 32GB, 1TB M.2 SSD)
-- **Dell Performance Dock - WD19DC**
-- **LG** ultra-wide monitor
-
-### Developement Tools
-
-- **Visual Studio Code** with the **Dracula** theme and **Cascadia Code** Nerd Font
-- **WebStorm** with the same as above setup for similar experience
-- **Windows Terminal** with **Nord** theme
-
-### Design Tools
-
-- **Figma**
-- **Adobe Creative Suite**
-
-### Productivity Tools
-
-- **Notion**
-- **Standard Notes**
-- **Streaks**
-
-### Other Software
-
-- **Brave browser**
-- **KeePassXS**
-- **PowerToys**
-- **AutoHotKey** with my own script to remap capslock to a FN key with tons of shortcuts
-
----
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&color=DEDEDE&background=0b0c10&width=235&lines=Front-end+web+developer;Design+experience+6y.;Always+learning" alt="Typing SVG">
- </p> -->
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" />
-  Thank you for visiting my page!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="25" height="25" />
-  </p>
