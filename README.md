@@ -56,11 +56,6 @@
   </a>
  </div> -->
 
-- Frontend Developer
-- The rule of three C's: Coffee, Cats and Computers
-- Always happy to help you grow your tech career through mentorship.
-- Feel free to reach out, if you need any help!
-
 <!-- <picture><img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/github-metrics.svg" alt="Gherbetto's profile metrics" /></picture> -->
 <a href="https://wakatime.com/@Gherbetto">
   <img src="https://raw.githubusercontent.com/gherbetto/gherbetto/master/metrics.plugin.wakatime.svg" alt="Gherbetto's profile metrics" />
