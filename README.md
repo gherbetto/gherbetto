@@ -14,8 +14,20 @@
 </div>
 
 <div align="center">
-      <img 
-        src="https://github-card-opal-xi.vercel.app/api/carousel"
-        width="100%"
-        />
+  <img 
+    src="https://github-card-opal-xi.vercel.app/api/carousel"
+    width="100%"
+    />
+</div>
+
+<div align="center">
+  <a href="mailto:you@example.com">
+    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=email" alt="Email me"/>
+  </a>
+  <a href="https://www.gherbetto.dev/dmitrii-en-resume.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=resume" alt="Resume"/>
+  </a>
+  <a href="https://gherbetto.dev/">
+    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=portfolio" alt="Portfolio"/>
+  </a>
 </div>
