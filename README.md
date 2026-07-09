@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="mailto:you@example.com">
-    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=email" alt="Email me"/>
+    <img src="./assets/readme/buttons/email.svg" alt="Email me"/>
   </a>
   <a href="https://www.gherbetto.dev/dmitrii-en-resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=resume" alt="Resume"/>
