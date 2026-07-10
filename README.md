@@ -21,13 +21,15 @@
 </div>
 
 <div align="center">
-  <a href="mailto:you@example.com">
-    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=email" alt="Email me"/>
+  <a href="mailto:dgherastovschi@gmail.com">
+    <img src="./assets/buttons/email.svg" alt="Email me"/>
   </a>
-  <a href="https://www.gherbetto.dev/dmitrii-en-resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=resume" alt="Resume"/>
+  <a href="https://www.gherbetto.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/buttons/resume.svg" alt="Resume"/>
   </a>
   <a href="https://gherbetto.dev/">
-    <img src="https://github-card-opal-xi.vercel.app/api/buttons?buttonId=portfolio" alt="Portfolio"/>
+    <img src="./assets/buttons/portfolio.svg" alt="Portfolio"/>
   </a>
 </div>
+
+<p align="center"><sub>𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 <a href="https://github.com/gherbetto/github-card">gherbetto-github-card</a></sub></p>
